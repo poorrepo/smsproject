@@ -1,0 +1,9 @@
+.login_table
+{
+    width: 300px;
+    height: 100px;
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+    font-weight: bold;
+}
